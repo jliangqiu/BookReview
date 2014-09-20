@@ -1,6 +1,6 @@
 ---
 title: Social Psychology Reading Digest: Persuasion
-tags: ["book review", "social psychology", "persuasion"]
+tags: ["reading digest", "social psychology", "persuasion"]
 notebook: Book Reviews
 ---
 
@@ -34,7 +34,7 @@ As one can see, this is not an easy task at all. To accomplish it, the argument 
 
 ### Who Says? Communicator
 
-- __Credibility:__ Credibility usually does not endure the lapse of time. People tend to remember the message while forgetting the source, and the reason to discount it when hearing it from a less credible source.
+- __Credibility:__ Credible communicators tend to be persuasive. Credibility, however, usually does not endure the lapse of time. People tend to remember the message while forgetting the source, and the reason to discount it when hearing it from a less credible source.
 - __Perceived expertise__: 1) Beginning by saying things the audience agrees with make the speaker seem smart. 2) It also helps to be seen as _knowledgable_ on the topic. 3) Finally, speaking confidently. No "uh", "you know", etc.
 - __Perceived trustworthiness:__ 1) Look at the subjects in the eyes. 2) Trustworthiness is higher if the qudience believes the communicator is _not_ trying to persuade them. 3) More trustworthy if argue against self-interest. 4) Trustworthiness increases when people talk fast.
 - __Attractiveness and Liking:__ 1) Our liking of a communicator may open us up to the his/her arguments. 2) Similarity also makes for attractiveness.
@@ -67,7 +67,23 @@ __[Example]__ An experiment: A "digital" person in virtual reality mimicking the
 
 - __Types of Channels:__ Face-to-face appeal, a written document, media advertisement, etc.
 - __Passively Received Appeals:__ Persuasion decreases as the significance and familiarity of the issue increase. For example, for unfamiliar issues such as brand of aspirin, media domination can be powerful. For familiar and important issues, such as attitudes about a lengthy war, persuasion is hard.
-- __Personal vs. Media Influence:__ Major influence is not media but our contact with people, i.e., word-of-mouth influence. Media works in a two-step flow of communication: from media to opinion leaders to the rank and file.
+- __Personal vs. Media Influence:__ Major influence is not media but our contact with people, i.e., word-of-mouth influence. Media works in a two-step flow of communication: from media to opinion leaders to the rank and file. (Anecdote: in study after study, most people agree that mass media influence attitudes -- other people's attitudes, but not their own. ^_^)
+- __Comparison of Media:__ The more lifelike the medium, the more persuasive its message.
 
+### To Whom is it Said: The Audience
 
+- __How Old?__ People's social and political attitudes are shaped during the teens and ealy 20s. These attitudes hold on when they grow old. People generally do not change to other views, for example, becoming significantly more conservative, when they grow old.
+- __What Are They Thinking:__
+    * Distraction disarms counterarguing, for example, show visuals on a TV campaign ad to distract the audiences and they are less likely to analyze the words and counterargue. 
+    * Uninvolved audiences use peripheral cues. If you have a strong message/argument, you want to have the audience focused and think, because that is more persuasive.
+
+### How to _Resist_ Persuasion?
+
+- __Strengthening Personal Commitment:__ Make a public commitment to your position. For example, it's more likely to get a deadlock if to have straw polls of jurors in a trial. Also, mildly attack people's position will strengthen their positions, partly because it helps the audience build counter-arguments.
+- __An Example:__ Innoculation against smoking: Seventh-graders acted in role plays in which, after being called "chicken" for not taking a cigarette, they answered with statements such as "I'd be a real chicken if I smoked just to impress you." These students were half as likely to begin smoking than uninoculated students.
+
+### Summary: Being Open but not Naive
+
+- To be open, we can assume that every person we meet is in some ways superior than us. They have expertise that we can learn from.
+- To be critical thinkers, we want to be active listener. Force yourself to counterargue, don't just listen, react. For example, after hearing a political speech, discuss with others. Only take in those that can stand careful analysis.
 
